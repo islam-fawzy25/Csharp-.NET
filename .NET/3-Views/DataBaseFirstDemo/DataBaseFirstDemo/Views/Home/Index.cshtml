@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<h3> Welcome to our best web app in whole wide world</h3>
+
+@Html.ActionLink("Customers", "Index", "Customers", null, new { @class = "btn btn-success" })
+@Html.ActionLink("Products", "Index", "Products", null, new { @class = "btn btn-success" })
+@Html.ActionLink("Orders", "Index", "Orders", null, new { @class = "btn btn-success" })
+
+<br />
+<br />
+
+@Html.ActionLink("Create Customer", "Create", "Customers", null, new { @class = "btn btn-info" })
+@Html.ActionLink("Create Product", "Create", "Products", null, new { @class = "btn btn-info" })
+@Html.ActionLink("Create Order", "Create", "Orders", null, new { @class = "btn btn-info" })
