@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\JaggedArrayEx\JaggedArrayEx\bin\Debug\net5.0\JaggedArrayEx.exe
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\JaggedArrayEx\JaggedArrayEx\bin\Debug\net5.0\JaggedArrayEx.deps.json
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\JaggedArrayEx\JaggedArrayEx\bin\Debug\net5.0\JaggedArrayEx.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\JaggedArrayEx\JaggedArrayEx\bin\Debug\net5.0\JaggedArrayEx.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\JaggedArrayEx\JaggedArrayEx\bin\Debug\net5.0\JaggedArrayEx.dll
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\JaggedArrayEx\JaggedArrayEx\bin\Debug\net5.0\ref\JaggedArrayEx.dll
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\JaggedArrayEx\JaggedArrayEx\bin\Debug\net5.0\JaggedArrayEx.pdb
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\JaggedArrayEx\JaggedArrayEx\obj\Debug\net5.0\JaggedArrayEx.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\JaggedArrayEx\JaggedArrayEx\obj\Debug\net5.0\JaggedArrayEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\JaggedArrayEx\JaggedArrayEx\obj\Debug\net5.0\JaggedArrayEx.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\JaggedArrayEx\JaggedArrayEx\obj\Debug\net5.0\JaggedArrayEx.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\JaggedArrayEx\JaggedArrayEx\obj\Debug\net5.0\JaggedArrayEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\JaggedArrayEx\JaggedArrayEx\obj\Debug\net5.0\JaggedArrayEx.dll
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\JaggedArrayEx\JaggedArrayEx\obj\Debug\net5.0\ref\JaggedArrayEx.dll
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\JaggedArrayEx\JaggedArrayEx\obj\Debug\net5.0\JaggedArrayEx.pdb
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\JaggedArrayEx\JaggedArrayEx\obj\Debug\net5.0\JaggedArrayEx.genruntimeconfig.cache

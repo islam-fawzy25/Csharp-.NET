@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\PropertyDemo\PropertyDemo\bin\Debug\net5.0\PropertyDemo.exe
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\PropertyDemo\PropertyDemo\bin\Debug\net5.0\PropertyDemo.deps.json
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\PropertyDemo\PropertyDemo\bin\Debug\net5.0\PropertyDemo.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\PropertyDemo\PropertyDemo\bin\Debug\net5.0\PropertyDemo.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\PropertyDemo\PropertyDemo\bin\Debug\net5.0\PropertyDemo.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\PropertyDemo\PropertyDemo\bin\Debug\net5.0\ref\PropertyDemo.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\PropertyDemo\PropertyDemo\bin\Debug\net5.0\PropertyDemo.pdb
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\PropertyDemo\PropertyDemo\obj\Debug\net5.0\PropertyDemo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\PropertyDemo\PropertyDemo\obj\Debug\net5.0\PropertyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\PropertyDemo\PropertyDemo\obj\Debug\net5.0\PropertyDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\PropertyDemo\PropertyDemo\obj\Debug\net5.0\PropertyDemo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\PropertyDemo\PropertyDemo\obj\Debug\net5.0\PropertyDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\PropertyDemo\PropertyDemo\obj\Debug\net5.0\PropertyDemo.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\PropertyDemo\PropertyDemo\obj\Debug\net5.0\ref\PropertyDemo.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\PropertyDemo\PropertyDemo\obj\Debug\net5.0\PropertyDemo.pdb
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\PropertyDemo\PropertyDemo\obj\Debug\net5.0\PropertyDemo.genruntimeconfig.cache

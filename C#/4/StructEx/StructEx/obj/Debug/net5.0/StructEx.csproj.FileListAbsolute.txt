@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructEx\StructEx\bin\Debug\net5.0\StructEx.exe
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructEx\StructEx\bin\Debug\net5.0\StructEx.deps.json
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructEx\StructEx\bin\Debug\net5.0\StructEx.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructEx\StructEx\bin\Debug\net5.0\StructEx.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructEx\StructEx\bin\Debug\net5.0\StructEx.dll
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructEx\StructEx\bin\Debug\net5.0\ref\StructEx.dll
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructEx\StructEx\bin\Debug\net5.0\StructEx.pdb
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructEx\StructEx\obj\Debug\net5.0\StructEx.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructEx\StructEx\obj\Debug\net5.0\StructEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructEx\StructEx\obj\Debug\net5.0\StructEx.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructEx\StructEx\obj\Debug\net5.0\StructEx.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructEx\StructEx\obj\Debug\net5.0\StructEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructEx\StructEx\obj\Debug\net5.0\StructEx.dll
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructEx\StructEx\obj\Debug\net5.0\ref\StructEx.dll
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructEx\StructEx\obj\Debug\net5.0\StructEx.pdb
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructEx\StructEx\obj\Debug\net5.0\StructEx.genruntimeconfig.cache

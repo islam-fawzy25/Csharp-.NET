@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\ArrayEx\ArrayEx\bin\Debug\net5.0\ArrayEx.exe
+C:\Users\Administrator\source\repos\ArrayEx\ArrayEx\bin\Debug\net5.0\ArrayEx.deps.json
+C:\Users\Administrator\source\repos\ArrayEx\ArrayEx\bin\Debug\net5.0\ArrayEx.runtimeconfig.json
+C:\Users\Administrator\source\repos\ArrayEx\ArrayEx\bin\Debug\net5.0\ArrayEx.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ArrayEx\ArrayEx\bin\Debug\net5.0\ArrayEx.dll
+C:\Users\Administrator\source\repos\ArrayEx\ArrayEx\bin\Debug\net5.0\ref\ArrayEx.dll
+C:\Users\Administrator\source\repos\ArrayEx\ArrayEx\bin\Debug\net5.0\ArrayEx.pdb
+C:\Users\Administrator\source\repos\ArrayEx\ArrayEx\obj\Debug\net5.0\ArrayEx.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ArrayEx\ArrayEx\obj\Debug\net5.0\ArrayEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ArrayEx\ArrayEx\obj\Debug\net5.0\ArrayEx.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ArrayEx\ArrayEx\obj\Debug\net5.0\ArrayEx.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ArrayEx\ArrayEx\obj\Debug\net5.0\ArrayEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ArrayEx\ArrayEx\obj\Debug\net5.0\ArrayEx.dll
+C:\Users\Administrator\source\repos\ArrayEx\ArrayEx\obj\Debug\net5.0\ref\ArrayEx.dll
+C:\Users\Administrator\source\repos\ArrayEx\ArrayEx\obj\Debug\net5.0\ArrayEx.pdb
+C:\Users\Administrator\source\repos\ArrayEx\ArrayEx\obj\Debug\net5.0\ArrayEx.genruntimeconfig.cache

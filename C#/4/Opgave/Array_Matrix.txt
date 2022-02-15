@@ -1,0 +1,12 @@
+write C# program to display a matrix as shown below. 
+The diagonal of the matrix fills with 0s. 
+The lower side fills will -1s and the upper side fills with 1s.
+note: don't use hard coded values.
+
+
+ 0	 1	 1	1	1	 
+-1	 0	 1	1	1
+-1	-1	 0	1	1
+-1	-1	-1	0	1
+-1	-1	-1     -1	0
+

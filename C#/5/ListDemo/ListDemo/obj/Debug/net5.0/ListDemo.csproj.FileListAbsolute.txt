@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\ListDemo\ListDemo\bin\Debug\net5.0\ListDemo.exe
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\ListDemo\ListDemo\bin\Debug\net5.0\ListDemo.deps.json
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\ListDemo\ListDemo\bin\Debug\net5.0\ListDemo.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\ListDemo\ListDemo\bin\Debug\net5.0\ListDemo.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\ListDemo\ListDemo\bin\Debug\net5.0\ListDemo.dll
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\ListDemo\ListDemo\bin\Debug\net5.0\ref\ListDemo.dll
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\ListDemo\ListDemo\bin\Debug\net5.0\ListDemo.pdb
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\ListDemo\ListDemo\obj\Debug\net5.0\ListDemo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\ListDemo\ListDemo\obj\Debug\net5.0\ListDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\ListDemo\ListDemo\obj\Debug\net5.0\ListDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\ListDemo\ListDemo\obj\Debug\net5.0\ListDemo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\ListDemo\ListDemo\obj\Debug\net5.0\ListDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\ListDemo\ListDemo\obj\Debug\net5.0\ListDemo.dll
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\ListDemo\ListDemo\obj\Debug\net5.0\ref\ListDemo.dll
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\ListDemo\ListDemo\obj\Debug\net5.0\ListDemo.pdb
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\ListDemo\ListDemo\obj\Debug\net5.0\ListDemo.genruntimeconfig.cache

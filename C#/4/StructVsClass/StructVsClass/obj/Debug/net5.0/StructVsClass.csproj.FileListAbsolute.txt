@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructVsClass\StructVsClass\bin\Debug\net5.0\StructVsClass.exe
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructVsClass\StructVsClass\bin\Debug\net5.0\StructVsClass.deps.json
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructVsClass\StructVsClass\bin\Debug\net5.0\StructVsClass.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructVsClass\StructVsClass\bin\Debug\net5.0\StructVsClass.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructVsClass\StructVsClass\bin\Debug\net5.0\StructVsClass.dll
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructVsClass\StructVsClass\bin\Debug\net5.0\ref\StructVsClass.dll
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructVsClass\StructVsClass\bin\Debug\net5.0\StructVsClass.pdb
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructVsClass\StructVsClass\obj\Debug\net5.0\StructVsClass.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructVsClass\StructVsClass\obj\Debug\net5.0\StructVsClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructVsClass\StructVsClass\obj\Debug\net5.0\StructVsClass.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructVsClass\StructVsClass\obj\Debug\net5.0\StructVsClass.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructVsClass\StructVsClass\obj\Debug\net5.0\StructVsClass.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructVsClass\StructVsClass\obj\Debug\net5.0\StructVsClass.dll
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructVsClass\StructVsClass\obj\Debug\net5.0\ref\StructVsClass.dll
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructVsClass\StructVsClass\obj\Debug\net5.0\StructVsClass.pdb
+C:\Users\Administrator\Desktop\Idag\4-Torsdag-ValueTypVsRefType\StructVsClass\StructVsClass\obj\Debug\net5.0\StructVsClass.genruntimeconfig.cache

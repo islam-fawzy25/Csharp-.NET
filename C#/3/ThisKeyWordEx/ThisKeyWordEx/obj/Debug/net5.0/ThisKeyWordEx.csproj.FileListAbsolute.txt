@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ThisKeyWordEx\ThisKeyWordEx\bin\Debug\net5.0\ThisKeyWordEx.exe
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ThisKeyWordEx\ThisKeyWordEx\bin\Debug\net5.0\ThisKeyWordEx.deps.json
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ThisKeyWordEx\ThisKeyWordEx\bin\Debug\net5.0\ThisKeyWordEx.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ThisKeyWordEx\ThisKeyWordEx\bin\Debug\net5.0\ThisKeyWordEx.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ThisKeyWordEx\ThisKeyWordEx\bin\Debug\net5.0\ThisKeyWordEx.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ThisKeyWordEx\ThisKeyWordEx\bin\Debug\net5.0\ref\ThisKeyWordEx.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ThisKeyWordEx\ThisKeyWordEx\bin\Debug\net5.0\ThisKeyWordEx.pdb
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ThisKeyWordEx\ThisKeyWordEx\obj\Debug\net5.0\ThisKeyWordEx.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ThisKeyWordEx\ThisKeyWordEx\obj\Debug\net5.0\ThisKeyWordEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ThisKeyWordEx\ThisKeyWordEx\obj\Debug\net5.0\ThisKeyWordEx.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ThisKeyWordEx\ThisKeyWordEx\obj\Debug\net5.0\ThisKeyWordEx.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ThisKeyWordEx\ThisKeyWordEx\obj\Debug\net5.0\ThisKeyWordEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ThisKeyWordEx\ThisKeyWordEx\obj\Debug\net5.0\ThisKeyWordEx.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ThisKeyWordEx\ThisKeyWordEx\obj\Debug\net5.0\ref\ThisKeyWordEx.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ThisKeyWordEx\ThisKeyWordEx\obj\Debug\net5.0\ThisKeyWordEx.pdb
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ThisKeyWordEx\ThisKeyWordEx\obj\Debug\net5.0\ThisKeyWordEx.genruntimeconfig.cache

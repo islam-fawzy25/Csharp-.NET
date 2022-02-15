@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\AbstractClassDemo\AbstractClassDemo\bin\Debug\net5.0\AbstractClassDemo.exe
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\AbstractClassDemo\AbstractClassDemo\bin\Debug\net5.0\AbstractClassDemo.deps.json
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\AbstractClassDemo\AbstractClassDemo\bin\Debug\net5.0\AbstractClassDemo.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\AbstractClassDemo\AbstractClassDemo\bin\Debug\net5.0\AbstractClassDemo.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\AbstractClassDemo\AbstractClassDemo\bin\Debug\net5.0\AbstractClassDemo.dll
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\AbstractClassDemo\AbstractClassDemo\bin\Debug\net5.0\ref\AbstractClassDemo.dll
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\AbstractClassDemo\AbstractClassDemo\bin\Debug\net5.0\AbstractClassDemo.pdb
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\AbstractClassDemo\AbstractClassDemo\obj\Debug\net5.0\AbstractClassDemo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\AbstractClassDemo\AbstractClassDemo\obj\Debug\net5.0\AbstractClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\AbstractClassDemo\AbstractClassDemo\obj\Debug\net5.0\AbstractClassDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\AbstractClassDemo\AbstractClassDemo\obj\Debug\net5.0\AbstractClassDemo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\AbstractClassDemo\AbstractClassDemo\obj\Debug\net5.0\AbstractClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\AbstractClassDemo\AbstractClassDemo\obj\Debug\net5.0\AbstractClassDemo.dll
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\AbstractClassDemo\AbstractClassDemo\obj\Debug\net5.0\ref\AbstractClassDemo.dll
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\AbstractClassDemo\AbstractClassDemo\obj\Debug\net5.0\AbstractClassDemo.pdb
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\AbstractClassDemo\AbstractClassDemo\obj\Debug\net5.0\AbstractClassDemo.genruntimeconfig.cache

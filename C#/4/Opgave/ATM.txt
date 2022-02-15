@@ -1,0 +1,10 @@
+Write a C# Program to Display the ATM Transactions like
+
+1) Balance checking
+2) Cash withdrawal
+3) Cash deposition.
+
+note:  No OverDraw and only paper notes no coins.
+
+optional: check pin code
+

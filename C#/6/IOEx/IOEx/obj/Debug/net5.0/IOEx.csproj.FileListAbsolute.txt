@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\IOEx\IOEx\bin\Debug\net5.0\IOEx.exe
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\IOEx\IOEx\bin\Debug\net5.0\IOEx.deps.json
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\IOEx\IOEx\bin\Debug\net5.0\IOEx.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\IOEx\IOEx\bin\Debug\net5.0\IOEx.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\IOEx\IOEx\bin\Debug\net5.0\IOEx.dll
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\IOEx\IOEx\bin\Debug\net5.0\ref\IOEx.dll
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\IOEx\IOEx\bin\Debug\net5.0\IOEx.pdb
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\IOEx\IOEx\obj\Debug\net5.0\IOEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\IOEx\IOEx\obj\Debug\net5.0\IOEx.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\IOEx\IOEx\obj\Debug\net5.0\IOEx.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\IOEx\IOEx\obj\Debug\net5.0\IOEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\IOEx\IOEx\obj\Debug\net5.0\IOEx.dll
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\IOEx\IOEx\obj\Debug\net5.0\ref\IOEx.dll
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\IOEx\IOEx\obj\Debug\net5.0\IOEx.pdb
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\IOEx\IOEx\obj\Debug\net5.0\IOEx.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\IOEx\IOEx\obj\Debug\net5.0\IOEx.csproj.AssemblyReference.cache

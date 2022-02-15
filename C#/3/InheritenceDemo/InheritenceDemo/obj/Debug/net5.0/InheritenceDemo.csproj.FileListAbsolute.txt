@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\InheritenceDemo\InheritenceDemo\bin\Debug\net5.0\InheritenceDemo.exe
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\InheritenceDemo\InheritenceDemo\bin\Debug\net5.0\InheritenceDemo.deps.json
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\InheritenceDemo\InheritenceDemo\bin\Debug\net5.0\InheritenceDemo.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\InheritenceDemo\InheritenceDemo\bin\Debug\net5.0\InheritenceDemo.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\InheritenceDemo\InheritenceDemo\bin\Debug\net5.0\InheritenceDemo.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\InheritenceDemo\InheritenceDemo\bin\Debug\net5.0\ref\InheritenceDemo.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\InheritenceDemo\InheritenceDemo\bin\Debug\net5.0\InheritenceDemo.pdb
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\InheritenceDemo\InheritenceDemo\obj\Debug\net5.0\InheritenceDemo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\InheritenceDemo\InheritenceDemo\obj\Debug\net5.0\InheritenceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\InheritenceDemo\InheritenceDemo\obj\Debug\net5.0\InheritenceDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\InheritenceDemo\InheritenceDemo\obj\Debug\net5.0\InheritenceDemo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\InheritenceDemo\InheritenceDemo\obj\Debug\net5.0\InheritenceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\InheritenceDemo\InheritenceDemo\obj\Debug\net5.0\InheritenceDemo.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\InheritenceDemo\InheritenceDemo\obj\Debug\net5.0\ref\InheritenceDemo.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\InheritenceDemo\InheritenceDemo\obj\Debug\net5.0\InheritenceDemo.pdb
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\InheritenceDemo\InheritenceDemo\obj\Debug\net5.0\InheritenceDemo.genruntimeconfig.cache

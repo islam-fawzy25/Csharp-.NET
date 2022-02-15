@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ClassEx\ClassEx\bin\Debug\net5.0\ClassEx.exe
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ClassEx\ClassEx\bin\Debug\net5.0\ClassEx.deps.json
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ClassEx\ClassEx\bin\Debug\net5.0\ClassEx.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ClassEx\ClassEx\bin\Debug\net5.0\ClassEx.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ClassEx\ClassEx\bin\Debug\net5.0\ClassEx.dll
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ClassEx\ClassEx\bin\Debug\net5.0\ref\ClassEx.dll
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ClassEx\ClassEx\bin\Debug\net5.0\ClassEx.pdb
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ClassEx\ClassEx\obj\Debug\net5.0\ClassEx.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ClassEx\ClassEx\obj\Debug\net5.0\ClassEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ClassEx\ClassEx\obj\Debug\net5.0\ClassEx.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ClassEx\ClassEx\obj\Debug\net5.0\ClassEx.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ClassEx\ClassEx\obj\Debug\net5.0\ClassEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ClassEx\ClassEx\obj\Debug\net5.0\ClassEx.dll
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ClassEx\ClassEx\obj\Debug\net5.0\ref\ClassEx.dll
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ClassEx\ClassEx\obj\Debug\net5.0\ClassEx.pdb
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ClassEx\ClassEx\obj\Debug\net5.0\ClassEx.genruntimeconfig.cache

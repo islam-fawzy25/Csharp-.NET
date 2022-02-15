@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\LINQEx\LINQEx\bin\Debug\net5.0\LINQEx.exe
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\LINQEx\LINQEx\bin\Debug\net5.0\LINQEx.deps.json
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\LINQEx\LINQEx\bin\Debug\net5.0\LINQEx.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\LINQEx\LINQEx\bin\Debug\net5.0\LINQEx.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\LINQEx\LINQEx\bin\Debug\net5.0\LINQEx.dll
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\LINQEx\LINQEx\bin\Debug\net5.0\ref\LINQEx.dll
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\LINQEx\LINQEx\bin\Debug\net5.0\LINQEx.pdb
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\LINQEx\LINQEx\obj\Debug\net5.0\LINQEx.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\LINQEx\LINQEx\obj\Debug\net5.0\LINQEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\LINQEx\LINQEx\obj\Debug\net5.0\LINQEx.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\LINQEx\LINQEx\obj\Debug\net5.0\LINQEx.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\LINQEx\LINQEx\obj\Debug\net5.0\LINQEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\LINQEx\LINQEx\obj\Debug\net5.0\LINQEx.dll
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\LINQEx\LINQEx\obj\Debug\net5.0\ref\LINQEx.dll
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\LINQEx\LINQEx\obj\Debug\net5.0\LINQEx.pdb
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\LINQEx\LINQEx\obj\Debug\net5.0\LINQEx.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\LINQEx\LINQEx\bin\Debug\net5.0\employees.xml

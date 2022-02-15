@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ConstructorEX\ConstructorEX\bin\Debug\net5.0\ConstructorEX.exe
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ConstructorEX\ConstructorEX\bin\Debug\net5.0\ConstructorEX.deps.json
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ConstructorEX\ConstructorEX\bin\Debug\net5.0\ConstructorEX.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ConstructorEX\ConstructorEX\bin\Debug\net5.0\ConstructorEX.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ConstructorEX\ConstructorEX\bin\Debug\net5.0\ConstructorEX.dll
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ConstructorEX\ConstructorEX\bin\Debug\net5.0\ref\ConstructorEX.dll
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ConstructorEX\ConstructorEX\bin\Debug\net5.0\ConstructorEX.pdb
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ConstructorEX\ConstructorEX\obj\Debug\net5.0\ConstructorEX.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ConstructorEX\ConstructorEX\obj\Debug\net5.0\ConstructorEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ConstructorEX\ConstructorEX\obj\Debug\net5.0\ConstructorEX.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ConstructorEX\ConstructorEX\obj\Debug\net5.0\ConstructorEX.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ConstructorEX\ConstructorEX\obj\Debug\net5.0\ConstructorEX.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ConstructorEX\ConstructorEX\obj\Debug\net5.0\ConstructorEX.dll
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ConstructorEX\ConstructorEX\obj\Debug\net5.0\ref\ConstructorEX.dll
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ConstructorEX\ConstructorEX\obj\Debug\net5.0\ConstructorEX.pdb
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\ConstructorEX\ConstructorEX\obj\Debug\net5.0\ConstructorEX.genruntimeconfig.cache

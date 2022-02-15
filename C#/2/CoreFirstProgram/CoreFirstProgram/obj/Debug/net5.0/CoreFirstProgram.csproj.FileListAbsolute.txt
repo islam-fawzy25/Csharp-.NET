@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\CoreFirstProgram\CoreFirstProgram\bin\Debug\net5.0\CoreFirstProgram.exe
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\CoreFirstProgram\CoreFirstProgram\bin\Debug\net5.0\CoreFirstProgram.deps.json
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\CoreFirstProgram\CoreFirstProgram\bin\Debug\net5.0\CoreFirstProgram.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\CoreFirstProgram\CoreFirstProgram\bin\Debug\net5.0\CoreFirstProgram.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\CoreFirstProgram\CoreFirstProgram\bin\Debug\net5.0\CoreFirstProgram.dll
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\CoreFirstProgram\CoreFirstProgram\bin\Debug\net5.0\ref\CoreFirstProgram.dll
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\CoreFirstProgram\CoreFirstProgram\bin\Debug\net5.0\CoreFirstProgram.pdb
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\CoreFirstProgram\CoreFirstProgram\obj\Debug\net5.0\CoreFirstProgram.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\CoreFirstProgram\CoreFirstProgram\obj\Debug\net5.0\CoreFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\CoreFirstProgram\CoreFirstProgram\obj\Debug\net5.0\CoreFirstProgram.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\CoreFirstProgram\CoreFirstProgram\obj\Debug\net5.0\CoreFirstProgram.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\CoreFirstProgram\CoreFirstProgram\obj\Debug\net5.0\CoreFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\CoreFirstProgram\CoreFirstProgram\obj\Debug\net5.0\CoreFirstProgram.dll
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\CoreFirstProgram\CoreFirstProgram\obj\Debug\net5.0\ref\CoreFirstProgram.dll
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\CoreFirstProgram\CoreFirstProgram\obj\Debug\net5.0\CoreFirstProgram.pdb
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\CoreFirstProgram\CoreFirstProgram\obj\Debug\net5.0\CoreFirstProgram.genruntimeconfig.cache

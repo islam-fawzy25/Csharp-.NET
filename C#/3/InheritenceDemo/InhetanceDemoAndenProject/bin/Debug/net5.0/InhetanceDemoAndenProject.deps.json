@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InhetanceDemoAndenProject/1.0.0": {
+        "dependencies": {
+          "InheritenceDemo": "1.0.0"
+        },
+        "runtime": {
+          "InhetanceDemoAndenProject.dll": {}
+        }
+      },
+      "InheritenceDemo/1.0.0": {
+        "runtime": {
+          "InheritenceDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InhetanceDemoAndenProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InheritenceDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\DoWhileSwitchEx\DoWhileSwitchEx\bin\Debug\net5.0\DoWhileSwitchEx.exe
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\DoWhileSwitchEx\DoWhileSwitchEx\bin\Debug\net5.0\DoWhileSwitchEx.deps.json
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\DoWhileSwitchEx\DoWhileSwitchEx\bin\Debug\net5.0\DoWhileSwitchEx.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\DoWhileSwitchEx\DoWhileSwitchEx\bin\Debug\net5.0\DoWhileSwitchEx.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\DoWhileSwitchEx\DoWhileSwitchEx\bin\Debug\net5.0\DoWhileSwitchEx.dll
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\DoWhileSwitchEx\DoWhileSwitchEx\bin\Debug\net5.0\ref\DoWhileSwitchEx.dll
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\DoWhileSwitchEx\DoWhileSwitchEx\bin\Debug\net5.0\DoWhileSwitchEx.pdb
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\DoWhileSwitchEx\DoWhileSwitchEx\obj\Debug\net5.0\DoWhileSwitchEx.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\DoWhileSwitchEx\DoWhileSwitchEx\obj\Debug\net5.0\DoWhileSwitchEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\DoWhileSwitchEx\DoWhileSwitchEx\obj\Debug\net5.0\DoWhileSwitchEx.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\DoWhileSwitchEx\DoWhileSwitchEx\obj\Debug\net5.0\DoWhileSwitchEx.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\DoWhileSwitchEx\DoWhileSwitchEx\obj\Debug\net5.0\DoWhileSwitchEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\DoWhileSwitchEx\DoWhileSwitchEx\obj\Debug\net5.0\DoWhileSwitchEx.dll
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\DoWhileSwitchEx\DoWhileSwitchEx\obj\Debug\net5.0\ref\DoWhileSwitchEx.dll
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\DoWhileSwitchEx\DoWhileSwitchEx\obj\Debug\net5.0\DoWhileSwitchEx.pdb
+C:\Users\Administrator\Desktop\Idag\2-Tirsdag-Class+Constructor+loops\DoWhileSwitchEx\DoWhileSwitchEx\obj\Debug\net5.0\DoWhileSwitchEx.genruntimeconfig.cache

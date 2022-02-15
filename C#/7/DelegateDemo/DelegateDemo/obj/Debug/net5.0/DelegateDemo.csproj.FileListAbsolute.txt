@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\DelegateDemo\DelegateDemo\bin\Debug\net5.0\DelegateDemo.exe
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\DelegateDemo\DelegateDemo\bin\Debug\net5.0\DelegateDemo.deps.json
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\DelegateDemo\DelegateDemo\bin\Debug\net5.0\DelegateDemo.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\DelegateDemo\DelegateDemo\bin\Debug\net5.0\DelegateDemo.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\DelegateDemo\DelegateDemo\bin\Debug\net5.0\DelegateDemo.dll
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\DelegateDemo\DelegateDemo\bin\Debug\net5.0\ref\DelegateDemo.dll
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\DelegateDemo\DelegateDemo\bin\Debug\net5.0\DelegateDemo.pdb
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\DelegateDemo\DelegateDemo\obj\Debug\net5.0\DelegateDemo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\DelegateDemo\DelegateDemo\obj\Debug\net5.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\DelegateDemo\DelegateDemo\obj\Debug\net5.0\DelegateDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\DelegateDemo\DelegateDemo\obj\Debug\net5.0\DelegateDemo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\DelegateDemo\DelegateDemo\obj\Debug\net5.0\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\DelegateDemo\DelegateDemo\obj\Debug\net5.0\DelegateDemo.dll
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\DelegateDemo\DelegateDemo\obj\Debug\net5.0\ref\DelegateDemo.dll
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\DelegateDemo\DelegateDemo\obj\Debug\net5.0\DelegateDemo.pdb
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\DelegateDemo\DelegateDemo\obj\Debug\net5.0\DelegateDemo.genruntimeconfig.cache

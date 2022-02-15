@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\IEnumerableVsIEnumerator\IEnumerableVsIEnumerator\bin\Debug\net5.0\IEnumerableVsIEnumerator.exe
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\IEnumerableVsIEnumerator\IEnumerableVsIEnumerator\bin\Debug\net5.0\IEnumerableVsIEnumerator.deps.json
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\IEnumerableVsIEnumerator\IEnumerableVsIEnumerator\bin\Debug\net5.0\IEnumerableVsIEnumerator.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\IEnumerableVsIEnumerator\IEnumerableVsIEnumerator\bin\Debug\net5.0\IEnumerableVsIEnumerator.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\IEnumerableVsIEnumerator\IEnumerableVsIEnumerator\bin\Debug\net5.0\IEnumerableVsIEnumerator.dll
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\IEnumerableVsIEnumerator\IEnumerableVsIEnumerator\bin\Debug\net5.0\ref\IEnumerableVsIEnumerator.dll
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\IEnumerableVsIEnumerator\IEnumerableVsIEnumerator\bin\Debug\net5.0\IEnumerableVsIEnumerator.pdb
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\IEnumerableVsIEnumerator\IEnumerableVsIEnumerator\obj\Debug\net5.0\IEnumerableVsIEnumerator.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\IEnumerableVsIEnumerator\IEnumerableVsIEnumerator\obj\Debug\net5.0\IEnumerableVsIEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\IEnumerableVsIEnumerator\IEnumerableVsIEnumerator\obj\Debug\net5.0\IEnumerableVsIEnumerator.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\IEnumerableVsIEnumerator\IEnumerableVsIEnumerator\obj\Debug\net5.0\IEnumerableVsIEnumerator.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\IEnumerableVsIEnumerator\IEnumerableVsIEnumerator\obj\Debug\net5.0\IEnumerableVsIEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\IEnumerableVsIEnumerator\IEnumerableVsIEnumerator\obj\Debug\net5.0\IEnumerableVsIEnumerator.dll
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\IEnumerableVsIEnumerator\IEnumerableVsIEnumerator\obj\Debug\net5.0\ref\IEnumerableVsIEnumerator.dll
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\IEnumerableVsIEnumerator\IEnumerableVsIEnumerator\obj\Debug\net5.0\IEnumerableVsIEnumerator.pdb
+C:\Users\Administrator\Desktop\Idag\7-Tirsdag-Enumeration+Delegates\IEnumerableVsIEnumerator\IEnumerableVsIEnumerator\obj\Debug\net5.0\IEnumerableVsIEnumerator.genruntimeconfig.cache

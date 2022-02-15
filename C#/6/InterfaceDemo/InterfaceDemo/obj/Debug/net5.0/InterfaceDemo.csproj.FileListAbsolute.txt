@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\InterfaceDemo.exe
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\InterfaceDemo.deps.json
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\InterfaceDemo.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\InterfaceDemo.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\InterfaceDemo.dll
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\ref\InterfaceDemo.dll
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\InterfaceDemo.pdb
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.dll
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\ref\InterfaceDemo.dll
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.pdb
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.genruntimeconfig.cache

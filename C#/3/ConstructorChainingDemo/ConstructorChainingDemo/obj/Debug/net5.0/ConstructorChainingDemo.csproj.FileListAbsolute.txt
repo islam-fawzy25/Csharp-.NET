@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ConstructorChainingDemo\ConstructorChainingDemo\bin\Debug\net5.0\ConstructorChainingDemo.exe
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ConstructorChainingDemo\ConstructorChainingDemo\bin\Debug\net5.0\ConstructorChainingDemo.deps.json
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ConstructorChainingDemo\ConstructorChainingDemo\bin\Debug\net5.0\ConstructorChainingDemo.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ConstructorChainingDemo\ConstructorChainingDemo\bin\Debug\net5.0\ConstructorChainingDemo.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ConstructorChainingDemo\ConstructorChainingDemo\bin\Debug\net5.0\ConstructorChainingDemo.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ConstructorChainingDemo\ConstructorChainingDemo\bin\Debug\net5.0\ref\ConstructorChainingDemo.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ConstructorChainingDemo\ConstructorChainingDemo\bin\Debug\net5.0\ConstructorChainingDemo.pdb
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ConstructorChainingDemo\ConstructorChainingDemo\obj\Debug\net5.0\ConstructorChainingDemo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ConstructorChainingDemo\ConstructorChainingDemo\obj\Debug\net5.0\ConstructorChainingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ConstructorChainingDemo\ConstructorChainingDemo\obj\Debug\net5.0\ConstructorChainingDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ConstructorChainingDemo\ConstructorChainingDemo\obj\Debug\net5.0\ConstructorChainingDemo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ConstructorChainingDemo\ConstructorChainingDemo\obj\Debug\net5.0\ConstructorChainingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ConstructorChainingDemo\ConstructorChainingDemo\obj\Debug\net5.0\ConstructorChainingDemo.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ConstructorChainingDemo\ConstructorChainingDemo\obj\Debug\net5.0\ref\ConstructorChainingDemo.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ConstructorChainingDemo\ConstructorChainingDemo\obj\Debug\net5.0\ConstructorChainingDemo.pdb
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ConstructorChainingDemo\ConstructorChainingDemo\obj\Debug\net5.0\ConstructorChainingDemo.genruntimeconfig.cache

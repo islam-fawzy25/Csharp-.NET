@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\DeconstructorDemo\DeconstructorDemo\bin\Debug\net5.0\DeconstructorDemo.exe
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\DeconstructorDemo\DeconstructorDemo\bin\Debug\net5.0\DeconstructorDemo.deps.json
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\DeconstructorDemo\DeconstructorDemo\bin\Debug\net5.0\DeconstructorDemo.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\DeconstructorDemo\DeconstructorDemo\bin\Debug\net5.0\DeconstructorDemo.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\DeconstructorDemo\DeconstructorDemo\bin\Debug\net5.0\DeconstructorDemo.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\DeconstructorDemo\DeconstructorDemo\bin\Debug\net5.0\ref\DeconstructorDemo.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\DeconstructorDemo\DeconstructorDemo\bin\Debug\net5.0\DeconstructorDemo.pdb
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\DeconstructorDemo\DeconstructorDemo\obj\Debug\net5.0\DeconstructorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\DeconstructorDemo\DeconstructorDemo\obj\Debug\net5.0\DeconstructorDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\DeconstructorDemo\DeconstructorDemo\obj\Debug\net5.0\DeconstructorDemo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\DeconstructorDemo\DeconstructorDemo\obj\Debug\net5.0\DeconstructorDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\DeconstructorDemo\DeconstructorDemo\obj\Debug\net5.0\DeconstructorDemo.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\DeconstructorDemo\DeconstructorDemo\obj\Debug\net5.0\ref\DeconstructorDemo.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\DeconstructorDemo\DeconstructorDemo\obj\Debug\net5.0\DeconstructorDemo.pdb
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\DeconstructorDemo\DeconstructorDemo\obj\Debug\net5.0\DeconstructorDemo.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\DeconstructorDemo\DeconstructorDemo\obj\Debug\net5.0\DeconstructorDemo.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\MyFirstProgramSolution\MyFirstProgramProject\bin\Debug\MyFirstProgramProject.exe.config
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\MyFirstProgramSolution\MyFirstProgramProject\bin\Debug\MyFirstProgramProject.exe
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\MyFirstProgramSolution\MyFirstProgramProject\bin\Debug\MyFirstProgramProject.pdb
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\MyFirstProgramSolution\MyFirstProgramProject\obj\Debug\MyFirstProgramProject.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\MyFirstProgramSolution\MyFirstProgramProject\obj\Debug\MyFirstProgramProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\MyFirstProgramSolution\MyFirstProgramProject\obj\Debug\MyFirstProgramProject.exe
+C:\Users\Administrator\Desktop\Idag\1-Mandag-Intro\MyFirstProgramSolution\MyFirstProgramProject\obj\Debug\MyFirstProgramProject.pdb

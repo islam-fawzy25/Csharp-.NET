@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ValueTypeVsReferenceType\ValueTypeVsReferenceType\bin\Debug\net5.0\ValueTypeVsReferenceType.exe
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ValueTypeVsReferenceType\ValueTypeVsReferenceType\bin\Debug\net5.0\ValueTypeVsReferenceType.deps.json
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ValueTypeVsReferenceType\ValueTypeVsReferenceType\bin\Debug\net5.0\ValueTypeVsReferenceType.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ValueTypeVsReferenceType\ValueTypeVsReferenceType\bin\Debug\net5.0\ValueTypeVsReferenceType.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ValueTypeVsReferenceType\ValueTypeVsReferenceType\bin\Debug\net5.0\ValueTypeVsReferenceType.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ValueTypeVsReferenceType\ValueTypeVsReferenceType\bin\Debug\net5.0\ref\ValueTypeVsReferenceType.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ValueTypeVsReferenceType\ValueTypeVsReferenceType\bin\Debug\net5.0\ValueTypeVsReferenceType.pdb
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ValueTypeVsReferenceType\ValueTypeVsReferenceType\obj\Debug\net5.0\ValueTypeVsReferenceType.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ValueTypeVsReferenceType\ValueTypeVsReferenceType\obj\Debug\net5.0\ValueTypeVsReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ValueTypeVsReferenceType\ValueTypeVsReferenceType\obj\Debug\net5.0\ValueTypeVsReferenceType.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ValueTypeVsReferenceType\ValueTypeVsReferenceType\obj\Debug\net5.0\ValueTypeVsReferenceType.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ValueTypeVsReferenceType\ValueTypeVsReferenceType\obj\Debug\net5.0\ValueTypeVsReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ValueTypeVsReferenceType\ValueTypeVsReferenceType\obj\Debug\net5.0\ValueTypeVsReferenceType.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ValueTypeVsReferenceType\ValueTypeVsReferenceType\obj\Debug\net5.0\ref\ValueTypeVsReferenceType.dll
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ValueTypeVsReferenceType\ValueTypeVsReferenceType\obj\Debug\net5.0\ValueTypeVsReferenceType.pdb
+C:\Users\Administrator\Desktop\Idag\3-Onsdag-Inheritance\ValueTypeVsReferenceType\ValueTypeVsReferenceType\obj\Debug\net5.0\ValueTypeVsReferenceType.genruntimeconfig.cache

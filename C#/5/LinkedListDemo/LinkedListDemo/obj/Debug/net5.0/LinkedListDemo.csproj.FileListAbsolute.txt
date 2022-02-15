@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\LinkedListDemo\LinkedListDemo\bin\Debug\net5.0\LinkedListDemo.exe
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\LinkedListDemo\LinkedListDemo\bin\Debug\net5.0\LinkedListDemo.deps.json
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\LinkedListDemo\LinkedListDemo\bin\Debug\net5.0\LinkedListDemo.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\LinkedListDemo\LinkedListDemo\bin\Debug\net5.0\LinkedListDemo.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\LinkedListDemo\LinkedListDemo\bin\Debug\net5.0\LinkedListDemo.dll
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\LinkedListDemo\LinkedListDemo\bin\Debug\net5.0\ref\LinkedListDemo.dll
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\LinkedListDemo\LinkedListDemo\bin\Debug\net5.0\LinkedListDemo.pdb
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\LinkedListDemo\LinkedListDemo\obj\Debug\net5.0\LinkedListDemo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\LinkedListDemo\LinkedListDemo\obj\Debug\net5.0\LinkedListDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\LinkedListDemo\LinkedListDemo\obj\Debug\net5.0\LinkedListDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\LinkedListDemo\LinkedListDemo\obj\Debug\net5.0\LinkedListDemo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\LinkedListDemo\LinkedListDemo\obj\Debug\net5.0\LinkedListDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\LinkedListDemo\LinkedListDemo\obj\Debug\net5.0\LinkedListDemo.dll
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\LinkedListDemo\LinkedListDemo\obj\Debug\net5.0\ref\LinkedListDemo.dll
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\LinkedListDemo\LinkedListDemo\obj\Debug\net5.0\LinkedListDemo.pdb
+C:\Users\Administrator\Desktop\Idag\5-Fredag-Collections\LinkedListDemo\LinkedListDemo\obj\Debug\net5.0\LinkedListDemo.genruntimeconfig.cache

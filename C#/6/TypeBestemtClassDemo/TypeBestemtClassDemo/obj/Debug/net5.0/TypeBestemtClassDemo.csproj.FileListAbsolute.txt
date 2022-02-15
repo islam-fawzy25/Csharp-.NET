@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\TypeBestemtClassDemo\TypeBestemtClassDemo\obj\Debug\net5.0\TypeBestemtClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\TypeBestemtClassDemo\TypeBestemtClassDemo\obj\Debug\net5.0\TypeBestemtClassDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\TypeBestemtClassDemo\TypeBestemtClassDemo\obj\Debug\net5.0\TypeBestemtClassDemo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\TypeBestemtClassDemo\TypeBestemtClassDemo\obj\Debug\net5.0\TypeBestemtClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\TypeBestemtClassDemo\TypeBestemtClassDemo\bin\Debug\net5.0\TypeBestemtClassDemo.exe
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\TypeBestemtClassDemo\TypeBestemtClassDemo\bin\Debug\net5.0\TypeBestemtClassDemo.deps.json
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\TypeBestemtClassDemo\TypeBestemtClassDemo\bin\Debug\net5.0\TypeBestemtClassDemo.runtimeconfig.json
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\TypeBestemtClassDemo\TypeBestemtClassDemo\bin\Debug\net5.0\TypeBestemtClassDemo.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\TypeBestemtClassDemo\TypeBestemtClassDemo\bin\Debug\net5.0\TypeBestemtClassDemo.dll
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\TypeBestemtClassDemo\TypeBestemtClassDemo\bin\Debug\net5.0\ref\TypeBestemtClassDemo.dll
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\TypeBestemtClassDemo\TypeBestemtClassDemo\bin\Debug\net5.0\TypeBestemtClassDemo.pdb
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\TypeBestemtClassDemo\TypeBestemtClassDemo\obj\Debug\net5.0\TypeBestemtClassDemo.dll
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\TypeBestemtClassDemo\TypeBestemtClassDemo\obj\Debug\net5.0\ref\TypeBestemtClassDemo.dll
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\TypeBestemtClassDemo\TypeBestemtClassDemo\obj\Debug\net5.0\TypeBestemtClassDemo.pdb
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\TypeBestemtClassDemo\TypeBestemtClassDemo\obj\Debug\net5.0\TypeBestemtClassDemo.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Idag\6-Mandag-Abstraction\TypeBestemtClassDemo\TypeBestemtClassDemo\obj\Debug\net5.0\TypeBestemtClassDemo.csproj.AssemblyReference.cache
